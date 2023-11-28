@@ -1,0 +1,4 @@
+appVersion: v1
+description: Argo Application
+name: argo-app
+version: "1.0.0"
